@@ -1,9 +1,9 @@
 .info {
-    background: rgb(219, 235, 255);
+    background: rgb(250, 0, 255);
     width: 70%;
     height: 200px;
     overflow: auto;
-    font-size: 16px;
+    font-size: 600px;
 }
 
 .pic {
